@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{18CB3EDF-BA9F-44D8-BF5D-F213D381B613}|Default">
+  <MonoDevelop.Ide.ItemProperties.Courses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/_ViewImports.cshtml">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="9" Column="13" />
+      <File FileName="Program.cs" Line="1" Column="14" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="bower.json" Line="1" Column="1" />
+      <File FileName="bundleconfig.json" Line="1" Column="1" />
+      <File FileName="Views/_ViewImports.cshtml" Line="1" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
